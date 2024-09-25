@@ -8,3 +8,7 @@ Run the following command inside a virtual environment
 ```sh
 pip install -r requirements.txt
 ```
+
+## Changes
+Non-UofT email message
+![Non-UofT email message](/assets/img/uoft-email-validation.png)
